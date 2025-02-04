@@ -6,7 +6,7 @@ def MTC(x, y):
     pyautogui.moveTo(x, y)
     pyautogui.click()
 
-# Open Chrome
+# Open Chrome in Taskbar
 MTC(75, 1050)
 time.sleep(2)
 
